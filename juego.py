@@ -4,7 +4,7 @@ from PIL import Image, ImageTk
 import pygame  
 
 
-pygame.mixer.init()
+pygame.mixer.init()  
 
 #ventana principal
 ventana = tk.Tk()
